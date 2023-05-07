@@ -10,8 +10,6 @@
 
 - 👨‍💻 All of my projects are available at [https://ranjitchhetridev.web.app/](https://ranjitchhetridev.web.app/)
 
-- 📝 I regularly write articles on [https://www.codewithranjit.com/](https://www.codewithranjit.com/)
-
 - 📫 How to reach me **ranjitchhetri48@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
