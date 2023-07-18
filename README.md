@@ -4,9 +4,9 @@
 <img align="right" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="code">
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjitchh&label=Profile%20views&color=0e75b6&style=flat" alt="ranjitchh" /> </p>
 
-- 🔭 I’m currently working on **WEb Chat App**
+- 🔭 I’m currently working on **Modern Web Design**
 
-- 🌱 I’m currently learning **Next Js, Tailwind , AI And Ml**
+- 🌱 I’m currently learning **Next Js, Tailwind , Gsap**
 
 - 👨‍💻 All of my projects are available at [https://ranjitchhetridev.web.app/](https://ranjitchhetridev.web.app/)
 
@@ -26,4 +26,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranjitchh&show_icons=true&locale=en" alt="ranjitchh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranjitchh&" alt="ranjitchh" /></p>
