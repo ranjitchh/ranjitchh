@@ -1,12 +1,12 @@
-<h1 align="center">Hey Dev 👋, I'm Ranjit chhetri</h1>
-<h3 align="center">I bring good vibes to every pixel I design..😎</h3>
+<h1 align="center">Hey Devs 👋, I'm Ranjit chhetri</h1>
+<h3 align="center">I craft pixel perfection with a touch of cool. 😎</h3>
  
-<img align="right" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="code">
+<img align="right" width="400" src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" alt="code">
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjitchh&label=Profile%20views&color=0e75b6&style=flat" alt="ranjitchh" /> </p>
 
-- 🔭 I’m currently working on **Modern Web Design**
+- 🔭 🔭 I'm currently immersed in NexCartique 👨‍💻
 
-- 🌱 I’m currently learning **Next Js, Tailwind , Gsap**
+- 🌱 I’m currently learning Locomotive js, Next js and Figma 👌
 
 - 👨‍💻 All of my projects are available at [https://ranjitchhetridev.web.app/](https://ranjitchhetridev.web.app/)
 
